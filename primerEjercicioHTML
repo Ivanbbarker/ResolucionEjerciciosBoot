@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=utf-8>
+        <title>Primer ejercicio</title>
+    </head>
+    <body>
+
+        <!-- Este es mi primer comentario de dos lineas
+        Aprendiendo a documentar mi codigo en OpenBootcamp -->
+
+            <a href="https://www.youtube.com/watch?v=Gr-fbstKYvY">Pepe:Vizio(12:00 pm)</a>
+            <a href="https://www.youtube.com/watch?v=yJjZ8KcG8E4">Cruz Cafuné - Deporvidas</a>
+            <a href="https://www.youtube.com/watch?v=SwxZxKkMS5g">Cruz Cafuné - Issey Miyake</a>
+    </body>
+</html>
