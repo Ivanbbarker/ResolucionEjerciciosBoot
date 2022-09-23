@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=utf-8>
+        <title>Ejercicio - Formularios en HTML</title>
+    </head> 
+    <body>
+
+        <label name="nombre" id="nombre">Nombre</label>
+        <input type="text" name="nombre" id="nombre">
+        <br>
+        <label name="edad" id="edad">Edad</label>
+        <input type="number" name="edad" id="edad">
+        <br>
+        <label name="frase-favorita" id="frase-favorita">Frase Favorita</label>
+        <input type="text" name="frase-favorita" id="frase-favorita">
+        <br>
+        <label name="enviar" id="enviar">Enviar</label>
+        <input type="button" name="enviar" id="enviar">
+        <br>
+        <label name="reset" id="reset">Reset</label>
+        <input type="reset" name="reset" id="reset">
+    
+    
+    </body>
+</html>
